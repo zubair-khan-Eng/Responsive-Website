@@ -1,16 +1,35 @@
-# React + Vite
+# 🌐 Responsive Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive agency website built with clean HTML and CSS.
 
-Currently, two official plugins are available:
+🎯 **Live Demo:** [Visit Site](https://responsive-website-xi-one.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
+- Fully responsive design
+- Modern UI/UX
+- Clean navigation (Home, Services, Our Work, Contact Us)
+- Interactive Contact button
+- Professional agency layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Deployment
+Deployed on **Vercel**
+Live at: https://responsive-website-xi-one.vercel.app
+
+---
+
+## 👤 Author
+**Zubair Khan**
+- 🌐 Portfolio: [portfolio-website-nu-gilt.vercel.app](https://portfolio-website-nu-gilt.vercel.app)
+- 📧 Email: zubairkhanicp@gmail.com
+- 🔗 GitHub: [zubair-khan-Eng](https://github.com/zubair-khan-Eng)
